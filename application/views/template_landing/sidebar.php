@@ -3,7 +3,7 @@
         <nav class="navbar navbar-light bg-light static-top">
             <div class="container">
                 <a class="navbar-brand" href="#!">Rumah Sakit Dr.Soetomo</a>
-                <a class="btn btn-primary" href="administrator/auth">Sign in</a>
+                <a class="btn btn-primary" href="<?= base_url();?>administrator/auth">Sign in</a>
             </div>
         </nav>
         <!-- Masthead-->
